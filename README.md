@@ -2,7 +2,8 @@
 
 This repository is for the Pluralsight course **[Testing Progressive Web Apps](https://bit.ly/PSPWATesting)**. The license is Apache 2.0.
 
-[![Course overview screenshot]($COURSE_HERO_IMAGE$)](https://bit.ly/PSPWATesting)
+[![Course overview screenshot](https://user-images.githubusercontent.com/563819/90946059-f7f56e80-e3ee-11ea-8f47-3d57e091e600.png)
+](https://bit.ly/PSPWATesting)
 
 ## Table of Contents
 
